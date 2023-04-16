@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormValidation/static/css/main.9a8dc272.css",
+    "main.js": "/FormValidation/static/js/main.860b8190.js",
+    "index.html": "/FormValidation/index.html",
+    "main.9a8dc272.css.map": "/FormValidation/static/css/main.9a8dc272.css.map",
+    "main.860b8190.js.map": "/FormValidation/static/js/main.860b8190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8dc272.css",
+    "static/js/main.860b8190.js"
+  ]
+}
